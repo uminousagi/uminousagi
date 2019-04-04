@@ -1,0 +1,26 @@
+.title {
+  color:#9c9c9c;
+  font-family: 'Impact','Georgia';
+}
+.header-logo{
+  color: #9c9c9c;
+}
+li {
+  list-style: none;
+  float: left;
+  padding:15px;
+  color: #9c9c9c;
+
+}
+body{
+  background:#3300ff
+}
+body{
+color: #9c9c9c
+}
+h2{
+  font-size:5px;
+}
+span{
+  color:red;
+}
